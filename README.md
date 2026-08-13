@@ -9,4 +9,4 @@ A bold, image-driven landing page template designed for creative brands, artists
 
 ![Lumina Agents Preview Image](lumina.png)
 
-Design by ![Donatech](https://donatech.co.za).
+Design by Donatech (https://donatech.co.za).
