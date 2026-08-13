@@ -8,3 +8,5 @@
 A bold, image-driven landing page template designed for creative brands, artists, and studios that want an immersive first impression.
 
 ![Lumina Agents Preview Image](lumina.png)
+
+Design by ![Donatech](https://donatech.co.za).
